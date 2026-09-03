@@ -1,0 +1,13 @@
+# R session junk
+.RData
+.Rhistory
+.Rproj.user/
+.Renviron
+
+# Quarto/knitr render output
+*_files/
+trial.html
+
+# Windows
+.DS_Store
+Thumbs.db

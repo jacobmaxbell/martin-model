@@ -1,0 +1,28 @@
+{
+    "id": "4730D7BE",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1785923288357.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "bdb909e1be48414782e0efe4842c203f",
+        "name": "MARTINDATA",
+        "title": "MARTINDATA",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1785913591,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1785923288357,
+    "read_only": false,
+    "read_only_alternatives": []
+}
