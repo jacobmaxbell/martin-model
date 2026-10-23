@@ -15,7 +15,7 @@ library(zoo) # For working with time series data (year-quarter dates)
 rm(list = ls()) # Remove all objects from the workspace
 
 # Set the working directory
-# setwd("") or create a project  # <- point this at the Assignment 3 folder
+# setwd("C:\Users\Jacob\OneDrive\AAMonash Economics\A_ECF5421 - Applied macroeconomics - S2 2026\Martin model projects") or create a project  # <- point this at the Assignment 3 folder
 
 # (1) Estimate the whole model and look up your equation  [assignment step 1]
 
@@ -329,4 +329,4 @@ if (shockEq != "NCR") {
 # policy stabilises this shock at no cost. If it can only dampen one by worsening the other
 # (inflation and unemployment moving in the same direction), the shock poses a trade-off --
 # a central bank then has to decide which to prioritise ... (demand vs supply shocks)
-# ------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------
